@@ -104,13 +104,17 @@ An Excel dashboard was created to provide a high-level overview of Malaysia's wh
 
 The dashboard includes:
 
+**KPI Cards:**
 - Total Sales
 - Average Monthly Sales
-- 2025 YoY Growth
 - Top Division
+
+**Charts & Visualisations:**
 - Sales Trend
 - Sales by Division
-- YoY Growth by Division
+- 2025 YoY Growth by Division
+
+**Interactive Features:**
 - Year filter/slicer
 
 ---
@@ -149,9 +153,7 @@ This highlights that the division contributing the most sales is not necessarily
 
 ## 📊 Dashboard Preview
 
-
-
-> Add your dashboard screenshot to the `images` folder and update the filename above if necessary.
+![Excel Dashboard](images/dashboard.png)
 
 ---
 
